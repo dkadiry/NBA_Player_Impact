@@ -16,22 +16,22 @@ We create a team comprising of 15 average players using player statistics for th
 During evaluation we found that this model does not accurately account for a player's defensive impact as those statistics are difficult to quantify. Our future works proposes designing a similar model trained on NBA play-by-play data.
 
 ## Cool Observations
-At the end of the notebook we print out the top 13 performers of the 2017/18 season according to our approach.
+At the end of the notebook we print out the top 13 performers of the 2017/18 season according to our approach. (James Harden won MVP this season and Lebron James had the 2nd most votes)
 
 Here's the list:
-1 Anthony Davis\davisan02
-2 James Harden\hardeja01
-3 Giannis Antetokounmpo\antetgi01
-4 Kevin Durant\duranke01
-5 LeBron James\jamesle01
-6 LaMarcus Aldridge\aldrila01
-7 Damian Lillard\lillada01
-8 Victor Oladipo\oladivi01
-9 Stephen Curry\curryst01
-10 Kyrie Irving\irvinky01
-11 DeMar DeRozan\derozde01
-12 Kemba Walker\walkeke02
-13 Jimmy Butler\butleji01
+1 Anthony Davis<br>
+2 James Harden<br>
+3 Giannis Antetokounmpo<br>
+4 Kevin Durant<br>
+5 LeBron James<br>
+6 LaMarcus Aldridge<br>
+7 Damian Lillard<br>
+8 Victor Oladipo<br>
+9 Stephen Curry<br>
+10 Kyrie Irving<br>
+11 DeMar DeRozan<br>
+12 Kemba Walker<br>
+13 Jimmy Butler<br>
 
 
 ## Contributors
