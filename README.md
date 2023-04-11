@@ -12,8 +12,27 @@ For more details on the calculations of these statistics see the methodology sec
 We create a team comprising of 15 average players using player statistics for the 2017-18 season. Our model predicts this team will win 42 games as expected. We then replace one of the average players with a player to be evaluated to see how many wins our player contributes to the average team. The extra wins contributed become our player impact score. We use this player impact score to estimate a new salary for this player based on the player's contribution to team success. For more details on the design and evaluation metrics of the Player Impact Score see the results & evaluation section of the final report.
 
 
-## Pitfalls of our approach
+## Proposed Updates
 During evaluation we found that this model does not accurately account for a player's defensive impact as those statistics are difficult to quantify. Our future works proposes designing a similar model trained on NBA play-by-play data.
+
+## Cool Observations
+At the end of the notebook we print out the top 13 performers of the 2017/18 season according to our approach.
+
+Here's the list:
+1 Anthony Davis\davisan02
+2 James Harden\hardeja01
+3 Giannis Antetokounmpo\antetgi01
+4 Kevin Durant\duranke01
+5 LeBron James\jamesle01
+6 LaMarcus Aldridge\aldrila01
+7 Damian Lillard\lillada01
+8 Victor Oladipo\oladivi01
+9 Stephen Curry\curryst01
+10 Kyrie Irving\irvinky01
+11 DeMar DeRozan\derozde01
+12 Kemba Walker\walkeke02
+13 Jimmy Butler\butleji01
+
 
 ## Contributors
 Oluwadamilola (Dami) Kadiri - Tuning and Evaluating the Model and Approach<br>
