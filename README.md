@@ -15,3 +15,6 @@ We create a team comprising of 15 average players using player statistics for th
 ## Pitfalls of our approach
 During evaluation we found that this model does not accurately account for a player's defensive impact as those statistics are difficult to quantify. Our future works proposes designing a similar model trained on NBA play-by-play data.
 
+## Contributors
+Oluwadamilola (Dami) Kadiri - Tuning and Evaluating the Model and Approach
+Mark Keran - Designing the model and approach
