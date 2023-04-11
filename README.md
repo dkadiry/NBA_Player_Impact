@@ -16,7 +16,7 @@ We create a team comprising of 15 average players using player statistics for th
 During evaluation we found that this model does not accurately account for a player's defensive impact as those statistics are difficult to quantify. Our future works proposes designing a similar model trained on NBA play-by-play data.
 
 ## Cool Observations
-At the end of the notebook we print out the top 13 performers of the 2017/18 season according to our approach. (James Harden won MVP this season and Lebron James had the 2nd most votes)
+At the end of the notebook we print out the top 13 performers of the NBA 2017/18 season according to our approach. 
 
 Here's the list:<br>
 1 Anthony Davis<br>
