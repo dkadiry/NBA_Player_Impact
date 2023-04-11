@@ -18,7 +18,7 @@ During evaluation we found that this model does not accurately account for a pla
 ## Cool Observations
 At the end of the notebook we print out the top 13 performers of the 2017/18 season according to our approach. (James Harden won MVP this season and Lebron James had the 2nd most votes)
 
-Here's the list:
+Here's the list:<br>
 1 Anthony Davis<br>
 2 James Harden<br>
 3 Giannis Antetokounmpo<br>
