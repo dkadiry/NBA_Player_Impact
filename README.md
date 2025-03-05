@@ -19,19 +19,19 @@ During evaluation we found that this model does not accurately account for a pla
 At the end of the notebook we print out the top 13 performers of the NBA 2017/18 season according to our approach. 
 
 Here's the list:<br>
-1 Anthony Davis<br>
-2 James Harden<br>
-3 Giannis Antetokounmpo<br>
-4 Kevin Durant<br>
-5 LeBron James<br>
-6 LaMarcus Aldridge<br>
-7 Damian Lillard<br>
-8 Victor Oladipo<br>
-9 Stephen Curry<br>
-10 Kyrie Irving<br>
-11 DeMar DeRozan<br>
-12 Kemba Walker<br>
-13 Jimmy Butler<br>
+1. Anthony Davis<br>
+2. James Harden<br>
+3. Giannis Antetokounmpo<br>
+4. Kevin Durant<br>
+5. LeBron James<br>
+6. LaMarcus Aldridge<br>
+7. Damian Lillard<br>
+8. Victor Oladipo<br>
+9. Stephen Curry<br>
+10. Kyrie Irving<br>
+11. DeMar DeRozan<br>
+12. Kemba Walker<br>
+13. Jimmy Butler<br>
 
 
 ## Contributors
